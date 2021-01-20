@@ -368,7 +368,8 @@
                 "marker-symbol": "rail-metro",
                 "marker-color": "#c48c31"
             }
-        },
+        }
+        ,
         {
             "type": "Feature",
             "geometry": {
@@ -587,7 +588,7 @@
             },
             "properties": {
                 "車站編號": "R03",
-                "中文站名": "台北101/世貿",
+                "中文站名": "台北101",
                 "英譯站名": "Taipei 101/World Trade Center",
                 "路線編號": "R",
                 "路線名": "淡水信義線",
